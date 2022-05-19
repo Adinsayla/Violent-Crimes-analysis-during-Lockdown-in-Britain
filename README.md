@@ -1,0 +1,2 @@
+# Violent-Crimes-analysis-during-Lockdown-in-Britain
+We are going to perform Violent Crimes analysis during Lockdown in Britain. The dataset, we will use is realised by UK police related to street level crime and provided in different categories such as domestic, drug abuse and violent crimes. We will analyze the data with different aspects specifically trends of violent crimes during Covid-19 pandemic lockdown as well as before pandemic.
